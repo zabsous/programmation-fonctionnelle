@@ -6,12 +6,6 @@ Ce projet est un **TP de programmation fonctionnelle en OCaml** portant sur la *
 
 - [Description](#-description)
 - [Structure du graphe](#-structure-du-graphe)
-- [Fonctionnalités](#-fonctionnalités)
-- [Compilation et exécution](#-compilation-et-exécution)
-- [Détails des fonctions principales](#-détails-des-fonctions-principales)
-- [Exemples d’utilisation](#-exemples-dutilisation)
-- [Améliorations possibles](#-améliorations-possibles)
-- [Licence](#-licence)
 
 ---
 
